@@ -1,18 +1,18 @@
 const data = [{
     id: 1,
-    title: "Wind Energy About",
+    title: "Wind Energy",
     inner: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem, accusamus eos tempora adipisci ex. Saepe quo reiciendis possimus illo accusantium sed recusandae atque quia, ullam, et molestias. Quo tempore quia voluptatibus alias. Quia quidem praesentium non dignissimos a assumenda voluptas aperiam inventore vel, quo sit, dolor cum architecto voluptate magni eaque quas, repellendus aspernatur ipsa. Magnam maxime a nostrum ipsam labore sed perferendis eius, ea saepe natus rem quas beatae ipsum dolores non, veniam sint tempora illo blanditiis quos incidunt eligendi illum! Ipsa enim illo nam? Nemo ipsam ex recusandae dignissimos deleniti, iste mollitia veritatis voluptas quod labore quas?",
     img: "./img/img1.jpg"
   },
   {
     id: 2,
-    title: "Hydrogen Energy About",
+    title: "Hydrogen Energy",
     inner: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem, accusamus eos tempora adipisci ex. Saepe quo reiciendis possimus illo accusantium sed recusandae atque quia, ullam, et molestias. Quo tempore quia voluptatibus alias. Quia quidem praesentium non dignissimos a assumenda voluptas aperiam inventore vel, quo sit, dolor cum architecto voluptate magni eaque quas, repellendus aspernatur ipsa. Magnam maxime a nostrum ipsam labore sed perferendis eius, ea saepe natus rem quas beatae ipsum dolores non, veniam sint tempora illo blanditiis quos incidunt eligendi illum! Ipsa enim illo nam? Nemo ipsam ex recusandae dignissimos deleniti, iste mollitia veritatis voluptas quod labore quas?",
     img: "./img/img2.jpg"
   },
   {
     id: 3,
-    title: "Nuclear Energy About",
+    title: "Nuclear Energy",
     inner: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem, accusamus eos tempora adipisci ex. Saepe quo reiciendis possimus illo accusantium sed recusandae atque quia, ullam, et molestias. Quo tempore quia voluptatibus alias. Quia quidem praesentium non dignissimos a assumenda voluptas aperiam inventore vel, quo sit, dolor cum architecto voluptate magni eaque quas, repellendus aspernatur ipsa. Magnam maxime a nostrum ipsam labore sed perferendis eius, ea saepe natus rem quas beatae ipsum dolores non, veniam sint tempora illo blanditiis quos incidunt eligendi illum! Ipsa enim illo nam? Nemo ipsam ex recusandae dignissimos deleniti, iste mollitia veritatis voluptas quod labore quas?",
     img: "./img/img3.jpg"
   },
